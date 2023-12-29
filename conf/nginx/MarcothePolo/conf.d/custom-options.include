@@ -1,0 +1,26 @@
+## custom options
+
+client_max_body_size 1024m;
+if ($request_method = 'OPTIONS' ) { return 200; }
+
+# header
+add_header Access-Control-Allow-Origin $allow_origin always; 
+
+# static resource
+location ~ .*\.(gif|jpg|jpeg|png|bmp|swf|flv|mp4|ico)$ {
+  
+  # header
+  add_header Access-Control-Allow-Origin $allow_origin always; 
+
+  expires 30d;
+  access_log off;
+}
+
+location ~ .*\.(js|css)?$ {
+  
+  # header
+  add_header Access-Control-Allow-Origin $allow_origin always; 
+
+  expires 7d;
+  access_log off;
+}

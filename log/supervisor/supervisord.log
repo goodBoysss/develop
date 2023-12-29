@@ -1,0 +1,460 @@
+2023-07-28 17:20:13,383 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:21:14,679 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:39:32,233 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:50:07,896 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:50:23,396 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:52:48,536 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:52:48,545 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 17:54:01,370 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:54:01,372 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 17:59:00,983 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 17:59:00,992 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:04:02,359 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:04:02,362 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:13:08,058 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:13:08,061 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:17:50,666 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:17:50,667 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:30:49,829 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:30:49,831 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:31:36,953 ERRO 127.0.0.1:53065 - - [28/Jul/2023:10:31:36 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 18:34:39,051 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:34:39,053 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 18:34:52,722 ERRO 127.0.0.1:53085 - - [28/Jul/2023:10:34:52 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 18:34:53,223 ERRO 127.0.0.1:53085 - - [28/Jul/2023:10:34:53 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 18:34:53,410 ERRO 127.0.0.1:53085 - - [28/Jul/2023:10:34:53 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 18:39:02,208 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 18:39:02,210 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:21:11,090 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:21:11,091 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:22:06,693 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:22:06,694 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:24:44,433 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:24:44,434 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:25:55,065 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:25:55,066 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:26:58,758 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:26:58,759 CRIT could not write pidfile /var/run/supervisord.pid
+2023-07-28 19:27:44,413 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:30:10,612 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:39:23,360 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:39:23,370 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:39:23,370 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:39:23,373 INFO daemonizing the supervisord process
+2023-07-28 19:39:23,374 INFO supervisord started with pid 36467
+2023-07-28 19:39:24,377 INFO spawned: 'myservice' with pid 36468
+2023-07-28 19:39:24,779 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:39:25,782 INFO spawned: 'myservice' with pid 36472
+2023-07-28 19:39:26,208 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:39:28,211 INFO spawned: 'myservice' with pid 36477
+2023-07-28 19:39:28,452 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:39:31,457 INFO spawned: 'myservice' with pid 36482
+2023-07-28 19:39:31,671 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:39:32,672 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:40:25,714 WARN received SIGTERM indicating exit request
+2023-07-28 19:40:27,460 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:40:27,471 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:40:27,471 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:40:27,472 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:40:27,472 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:40:27,475 INFO daemonizing the supervisord process
+2023-07-28 19:40:27,476 INFO supervisord started with pid 36555
+2023-07-28 19:40:28,479 INFO spawned: 'myservice' with pid 36556
+2023-07-28 19:40:28,900 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:40:29,905 INFO spawned: 'myservice' with pid 36558
+2023-07-28 19:40:30,108 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:40:32,230 INFO spawned: 'myservice' with pid 36565
+2023-07-28 19:40:32,426 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:40:35,431 INFO spawned: 'myservice' with pid 36568
+2023-07-28 19:40:35,607 WARN exited: myservice (exit status 0; not expected)
+2023-07-28 19:40:36,608 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:41:11,693 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:41:34,035 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:41:39,492 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:41:41,411 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:45:43,463 WARN received SIGTERM indicating exit request
+2023-07-28 19:47:01,740 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:47:01,741 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:47:01,781 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:47:01,781 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:47:01,782 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:47:01,782 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:47:01,782 INFO supervisord started with pid 37209
+2023-07-28 19:47:02,783 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:03,785 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:05,786 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:08,788 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:08,789 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:47:37,832 WARN received SIGTERM indicating exit request
+2023-07-28 19:47:39,037 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:47:39,037 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:47:39,047 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:47:39,047 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:47:39,048 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:47:39,048 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:47:39,048 INFO supervisord started with pid 37413
+2023-07-28 19:47:40,049 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:41,661 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:43,880 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:46,883 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:47:46,893 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:49:48,365 WARN received SIGTERM indicating exit request
+2023-07-28 19:49:49,494 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:49:49,494 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:49:49,506 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:49:49,506 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:49:49,507 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:49:49,507 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:49:49,507 INFO supervisord started with pid 37708
+2023-07-28 19:49:50,509 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:49:51,509 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:49:54,115 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:49:57,118 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:49:57,119 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:50:14,699 WARN received SIGTERM indicating exit request
+2023-07-28 19:51:10,422 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:51:10,423 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:51:10,436 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:51:10,436 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:51:10,437 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:51:10,437 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:51:10,437 INFO supervisord started with pid 494
+2023-07-28 19:51:11,439 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:51:12,441 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:51:14,626 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:51:17,788 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:51:17,788 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:52:08,557 ERRO 127.0.0.1:49199 - - [28/Jul/2023:11:52:08 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:52:10,954 ERRO 127.0.0.1:49199 - - [28/Jul/2023:11:52:10 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:52:14,710 ERRO 127.0.0.1:49199 - - [28/Jul/2023:11:52:14 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:52:21,423 ERRO 127.0.0.1:49199 - - [28/Jul/2023:11:52:21 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:52:59,678 ERRO 127.0.0.1:49279 - - [28/Jul/2023:11:52:59 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:53:04,643 ERRO 127.0.0.1:49279 - - [28/Jul/2023:11:53:04 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:53:21,234 ERRO 127.0.0.1:49279 - - [28/Jul/2023:11:53:21 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2835
+2023-07-28 19:55:04,349 WARN received SIGTERM indicating exit request
+2023-07-28 19:55:06,236 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/php-fpm.ini" during parsing
+2023-07-28 19:55:06,236 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:55:06,247 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:55:06,247 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:55:06,248 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:55:06,248 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:55:06,249 INFO supervisord started with pid 1674
+2023-07-28 19:55:07,249 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:55:07,406 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:07 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:08,407 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:55:09,089 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:09 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:11,091 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:55:11,953 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:11 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:12,614 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:12 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:12,868 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:12 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:13,386 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:55:13 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2801
+2023-07-28 19:55:14,387 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:55:14,387 INFO gave up: myservice entered FATAL state, too many start retries too quickly
+2023-07-28 19:56:41,963 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:56:42,967 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:56:44,968 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:56:47,974 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:56:47,974 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 19:56:48,025 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:56:48 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:37,608 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:37 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:38,366 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:38 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:38,593 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:38 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:38,806 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:38 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:39,004 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:39 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:39,218 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:39 +0800] "GET /?message=ERROR%3A%20Process%20myservice%3A%20no%20such%20file HTTP/1.1" 200 2847
+2023-07-28 19:57:43,860 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:43 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:57:44,562 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:44 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:57:45,211 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:45 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:57:46,686 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:57:46 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:58:03,801 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:58:03 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:58:04,453 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:58:04 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:58:04,874 ERRO 127.0.0.1:49300 - - [28/Jul/2023:11:58:04 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 19:58:18,884 WARN received SIGTERM indicating exit request
+2023-07-28 19:58:19,403 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 19:58:19,403 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:58:19,423 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:58:19,423 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:58:19,423 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:58:19,423 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:58:19,424 INFO supervisord started with pid 2315
+2023-07-28 19:58:19,883 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:19,887 ERRO 127.0.0.1:49399 - - [28/Jul/2023:11:58:19 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:20,607 ERRO 127.0.0.1:49399 - - [28/Jul/2023:11:58:20 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:20,808 ERRO 127.0.0.1:49399 - - [28/Jul/2023:11:58:20 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:20,993 ERRO 127.0.0.1:49399 - - [28/Jul/2023:11:58:20 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:20,993 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:22,996 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:25,999 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:25,999 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 19:58:30,003 WARN received SIGTERM indicating exit request
+2023-07-28 19:58:30,384 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 19:58:30,384 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 19:58:30,391 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:58:30,391 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 19:58:30,392 INFO RPC interface 'supervisor' initialized
+2023-07-28 19:58:30,392 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 19:58:30,393 INFO supervisord started with pid 2329
+2023-07-28 19:58:31,369 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:31,372 ERRO 127.0.0.1:49401 - - [28/Jul/2023:11:58:31 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:31,894 ERRO 127.0.0.1:49401 - - [28/Jul/2023:11:58:31 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:32,080 ERRO 127.0.0.1:49401 - - [28/Jul/2023:11:58:32 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2813
+2023-07-28 19:58:33,081 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:35,083 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:38,086 INFO spawnerr: can't find command 'docker'
+2023-07-28 19:58:38,086 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:01:24,432 ERRO 127.0.0.1:49401 - - [28/Jul/2023:12:01:24 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 20:01:24,980 ERRO 127.0.0.1:49401 - - [28/Jul/2023:12:01:24 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 20:01:25,198 ERRO 127.0.0.1:49401 - - [28/Jul/2023:12:01:25 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 20:01:25,398 ERRO 127.0.0.1:49401 - - [28/Jul/2023:12:01:25 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 20:01:25,615 ERRO 127.0.0.1:49401 - - [28/Jul/2023:12:01:25 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20no%20such%20file HTTP/1.1" 200 2849
+2023-07-28 20:01:57,669 WARN received SIGTERM indicating exit request
+2023-07-28 20:02:44,616 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:02:44,637 INFO Set uid to user 501 succeeded
+2023-07-28 20:02:44,637 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:02:44,931 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:02:44,931 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:02:44,931 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:02:44,931 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:02:44,932 INFO supervisord started with pid 497
+2023-07-28 20:02:45,932 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:02:46,933 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:02:48,934 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:02:51,936 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:02:51,936 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:05:29,716 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:05:29,716 INFO Set uid to user 501 succeeded
+2023-07-28 20:05:29,716 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:05:29,726 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:05:29,726 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:05:30,100 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:05:30,100 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:05:30,101 INFO supervisord started with pid 953
+2023-07-28 20:05:31,102 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:32,104 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:34,107 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:37,109 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:37,110 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:05:40,339 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:05:40,339 INFO Set uid to user 501 succeeded
+2023-07-28 20:05:40,339 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:05:40,345 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:05:40,345 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:05:40,708 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:05:40,708 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:05:40,709 INFO supervisord started with pid 959
+2023-07-28 20:05:41,710 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:42,711 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:44,712 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:47,714 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:05:47,714 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:13:59,511 WARN received SIGTERM indicating exit request
+2023-07-28 20:15:02,156 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:15:02,156 INFO Set uid to user 501 succeeded
+2023-07-28 20:15:02,157 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:15:02,166 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:15:02,166 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:15:02,167 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:15:02,167 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:15:02,167 INFO supervisord started with pid 3532
+2023-07-28 20:15:03,170 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:15:04,171 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:15:07,100 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:15:10,106 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:15:10,106 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:15:17,112 WARN received SIGTERM indicating exit request
+2023-07-28 20:18:13,713 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:18:13,714 INFO Set uid to user 501 succeeded
+2023-07-28 20:18:13,714 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:18:13,722 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:18:13,722 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:18:13,723 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:18:13,723 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:18:13,726 INFO daemonizing the supervisord process
+2023-07-28 20:18:13,726 INFO supervisord started with pid 4428
+2023-07-28 20:18:14,737 INFO spawned: 'python-clip' with pid 4429
+2023-07-28 20:18:15,240 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:18:16,244 INFO spawned: 'python-clip' with pid 4431
+2023-07-28 20:18:16,311 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:18:18,316 INFO spawned: 'python-clip' with pid 4436
+2023-07-28 20:18:18,382 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:18:21,801 INFO spawned: 'python-clip' with pid 4440
+2023-07-28 20:18:21,868 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:18:22,869 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:18:57,909 WARN received SIGTERM indicating exit request
+2023-07-28 20:19:14,975 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:19:14,975 INFO Set uid to user 501 succeeded
+2023-07-28 20:19:14,975 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:19:14,980 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:19:14,980 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:19:14,980 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:19:14,981 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:19:14,981 INFO supervisord started with pid 4605
+2023-07-28 20:19:15,982 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:19:16,986 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:19:19,239 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:19:22,244 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:19:22,244 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:20:59,572 WARN received SIGTERM indicating exit request
+2023-07-28 20:23:37,787 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:23:37,787 INFO Set uid to user 501 succeeded
+2023-07-28 20:23:37,787 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:23:37,792 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:23:37,792 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:23:37,792 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:23:37,792 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:23:37,793 INFO supervisord started with pid 5621
+2023-07-28 20:23:38,794 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:23:39,796 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:23:41,864 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:23:45,433 INFO spawnerr: can't find command 'docker'
+2023-07-28 20:23:45,433 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:24:45,498 WARN received SIGTERM indicating exit request
+2023-07-28 20:27:07,334 INFO Included extra file "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/python-clip.ini" during parsing
+2023-07-28 20:27:07,335 INFO Set uid to user 501 succeeded
+2023-07-28 20:27:07,335 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-07-28 20:27:07,347 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:27:07,347 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-07-28 20:27:07,348 INFO RPC interface 'supervisor' initialized
+2023-07-28 20:27:07,348 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-07-28 20:27:07,349 INFO daemonizing the supervisord process
+2023-07-28 20:27:07,350 INFO supervisord started with pid 668
+2023-07-28 20:27:08,357 INFO spawned: 'python-clip' with pid 669
+2023-07-28 20:27:08,923 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:09,927 INFO spawned: 'python-clip' with pid 673
+2023-07-28 20:27:10,006 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:12,297 INFO spawned: 'python-clip' with pid 679
+2023-07-28 20:27:12,380 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:15,553 INFO spawned: 'python-clip' with pid 684
+2023-07-28 20:27:15,630 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:16,063 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:27:32,496 INFO spawned: 'python-clip' with pid 691
+2023-07-28 20:27:32,570 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:33,574 INFO spawned: 'python-clip' with pid 693
+2023-07-28 20:27:33,656 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:34,666 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:27:34 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2834
+2023-07-28 20:27:35,670 INFO spawned: 'python-clip' with pid 715
+2023-07-28 20:27:35,750 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:37,322 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:27:37 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2834
+2023-07-28 20:27:39,326 INFO spawned: 'python-clip' with pid 719
+2023-07-28 20:27:39,406 WARN exited: python-clip (exit status 1; not expected)
+2023-07-28 20:27:40,408 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:28:32,701 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:28:32 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2870
+2023-07-28 20:28:52,695 INFO spawned: 'python-clip' with pid 1480
+2023-07-28 20:28:53,082 WARN exited: python-clip (exit status 0; not expected)
+2023-07-28 20:28:54,085 INFO spawned: 'python-clip' with pid 1482
+2023-07-28 20:28:54,255 WARN exited: python-clip (exit status 0; not expected)
+2023-07-28 20:28:55,263 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:28:55 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2834
+2023-07-28 20:28:56,266 INFO spawned: 'python-clip' with pid 1486
+2023-07-28 20:28:56,430 WARN exited: python-clip (exit status 0; not expected)
+2023-07-28 20:28:59,772 INFO spawned: 'python-clip' with pid 1491
+2023-07-28 20:28:59,949 WARN exited: python-clip (exit status 0; not expected)
+2023-07-28 20:29:00,021 INFO gave up: python-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:31:47,611 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:31:47 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2878
+2023-07-28 20:32:43,577 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:32:43 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2878
+2023-07-28 20:32:44,809 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:32:44 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2878
+2023-07-28 20:32:45,029 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:32:45 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2878
+2023-07-28 20:32:45,246 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:32:45 +0800] "GET /?message=ERROR%3A%20Process%20python-clip%3A%20spawn%20error HTTP/1.1" 200 2878
+2023-07-28 20:32:47,953 INFO spawned: 'python-openai-clip' with pid 1810
+2023-07-28 20:32:48,955 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:35:11,943 INFO waiting for python-openai-clip to stop
+2023-07-28 20:35:11,950 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:35:31,188 INFO spawned: 'python-openai-clip' with pid 2042
+2023-07-28 20:35:32,190 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:35:41,735 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:37:13,035 INFO spawned: 'python-openai-clip' with pid 2178
+2023-07-28 20:37:14,038 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:38:41,499 INFO waiting for python-openai-clip to stop
+2023-07-28 20:38:41,507 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:43:26,087 INFO spawned: 'python-openai-clip' with pid 2663
+2023-07-28 20:43:27,090 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:43:47,451 INFO waiting for python-openai-clip to stop
+2023-07-28 20:43:47,458 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:44:36,302 INFO spawned: 'python-openai-clip' with pid 2752
+2023-07-28 20:44:37,306 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:44:47,499 INFO waiting for python-openai-clip to stop
+2023-07-28 20:44:47,506 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:49:16,732 INFO spawned: 'python-openai-clip' with pid 3103
+2023-07-28 20:49:17,029 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:18,033 INFO spawned: 'python-openai-clip' with pid 3107
+2023-07-28 20:49:18,116 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:19,127 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:49:19 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2876
+2023-07-28 20:49:20,131 INFO spawned: 'python-openai-clip' with pid 3111
+2023-07-28 20:49:20,214 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:23,218 INFO spawned: 'python-openai-clip' with pid 3117
+2023-07-28 20:49:23,305 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:24,306 INFO gave up: python-openai-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:49:28,585 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:49:28 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2919
+2023-07-28 20:49:37,730 INFO spawned: 'python-openai-clip' with pid 3138
+2023-07-28 20:49:38,011 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:39,014 INFO spawned: 'python-openai-clip' with pid 3140
+2023-07-28 20:49:39,095 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:40,102 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:49:40 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2876
+2023-07-28 20:49:41,106 INFO spawned: 'python-openai-clip' with pid 3144
+2023-07-28 20:49:41,221 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:44,226 INFO spawned: 'python-openai-clip' with pid 3151
+2023-07-28 20:49:44,321 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:49:45,323 INFO gave up: python-openai-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:51:28,993 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:51:28 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2885
+2023-07-28 20:51:29,540 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:51:29 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2885
+2023-07-28 20:51:31,396 INFO spawned: 'python-openai-clip' with pid 3282
+2023-07-28 20:51:32,401 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:51:45,894 INFO waiting for python-openai-clip to stop
+2023-07-28 20:51:45,901 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:52:14,407 INFO spawned: 'python-openai-clip' with pid 3344
+2023-07-28 20:52:15,409 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:52:25,102 INFO waiting for python-openai-clip to stop
+2023-07-28 20:52:25,109 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:52:36,602 INFO spawned: 'python-openai-clip' with pid 3374
+2023-07-28 20:52:37,604 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:52:43,643 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:52:44,647 INFO spawned: 'python-openai-clip' with pid 3386
+2023-07-28 20:52:45,649 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:52:52,264 INFO waiting for python-openai-clip to stop
+2023-07-28 20:52:52,270 WARN stopped: python-openai-clip (exit status 255)
+2023-07-28 20:53:21,307 INFO spawned: 'python-openai-clip' with pid 3434
+2023-07-28 20:53:21,609 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:53:22,612 INFO spawned: 'python-openai-clip' with pid 3438
+2023-07-28 20:53:22,696 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:53:23,706 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:53:23 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2876
+2023-07-28 20:53:24,710 INFO spawned: 'python-openai-clip' with pid 3441
+2023-07-28 20:53:24,811 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:53:27,815 INFO spawned: 'python-openai-clip' with pid 3448
+2023-07-28 20:53:27,893 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:53:28,895 INFO gave up: python-openai-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:56:10,914 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:56:10 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2885
+2023-07-28 20:56:12,585 INFO spawned: 'python-openai-clip' with pid 3654
+2023-07-28 20:56:12,968 WARN exited: python-openai-clip (exit status 0; not expected)
+2023-07-28 20:56:13,971 INFO spawned: 'python-openai-clip' with pid 3656
+2023-07-28 20:56:14,131 WARN exited: python-openai-clip (exit status 0; not expected)
+2023-07-28 20:56:15,136 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:56:15 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2876
+2023-07-28 20:56:16,138 INFO spawned: 'python-openai-clip' with pid 3660
+2023-07-28 20:56:16,316 WARN exited: python-openai-clip (exit status 0; not expected)
+2023-07-28 20:56:19,320 INFO spawned: 'python-openai-clip' with pid 3665
+2023-07-28 20:56:19,952 WARN exited: python-openai-clip (exit status 0; not expected)
+2023-07-28 20:56:20,953 INFO gave up: python-openai-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:57:26,954 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:57:26 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2885
+2023-07-28 20:57:28,173 INFO spawned: 'python-openai-clip' with pid 3762
+2023-07-28 20:57:28,437 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:57:29,441 INFO spawned: 'python-openai-clip' with pid 3764
+2023-07-28 20:57:29,523 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:57:30,533 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:57:30 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2876
+2023-07-28 20:57:31,536 INFO spawned: 'python-openai-clip' with pid 3769
+2023-07-28 20:57:31,640 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:57:34,645 INFO spawned: 'python-openai-clip' with pid 3775
+2023-07-28 20:57:34,726 WARN exited: python-openai-clip (exit status 1; not expected)
+2023-07-28 20:57:35,727 INFO gave up: python-openai-clip entered FATAL state, too many start retries too quickly
+2023-07-28 20:58:18,867 ERRO 127.0.0.1:49205 - - [28/Jul/2023:12:58:18 +0800] "GET /?message=ERROR%3A%20Process%20python-openai-clip%3A%20spawn%20error HTTP/1.1" 200 2885
+2023-07-28 20:58:20,617 INFO spawned: 'python-openai-clip' with pid 3832
+2023-07-28 20:58:21,621 INFO success: python-openai-clip entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-07-28 20:58:37,785 INFO waiting for python-openai-clip to stop
+2023-07-28 20:58:37,793 WARN stopped: python-openai-clip (exit status 255)
+2023-08-01 10:35:34,243 WARN received SIGTERM indicating exit request
+2023-12-06 15:27:55,529 WARN No file matches via include "/Users/zhanglinxiao/Desktop/www/conf/supervisor/conf.d/*.ini"
+2023-12-06 15:27:55,539 INFO Set uid to user 501 succeeded
+2023-12-06 15:27:55,539 INFO Increased RLIMIT_NOFILE limit to 1024
+2023-12-06 15:27:55,762 INFO RPC interface 'supervisor' initialized
+2023-12-06 15:27:55,763 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2023-12-06 15:27:55,764 INFO RPC interface 'supervisor' initialized
+2023-12-06 15:27:55,764 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-12-06 15:27:55,765 INFO supervisord started with pid 37890
+2023-12-06 15:31:02,961 WARN received SIGTERM indicating exit request
