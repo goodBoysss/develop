@@ -4,7 +4,7 @@ services:
     image: oddrationale/docker-shadowsocks:latest
     command: -s 0.0.0.0 -p ${SHADOWSOCKS_PORT} -k ${SHADOWSOCKS_PASSWORD} -m aes-256-cfb
     ports:
-      - "1818:1818"
+      - "${SHADOWSOCKS_PORT}:${SHADOWSOCKS_PORT}"
     container_name: shadowsocks
     restart: always
     networks:
