@@ -1,0 +1,13 @@
+2023/12/31 23:11:21 [emerg] 1#1: host not found in upstream "php82" in /etc/nginx/conf.d/localhost.conf:24
+2023/12/31 23:11:23 [emerg] 1#1: host not found in upstream "php82" in /etc/nginx/conf.d/localhost.conf:24
+2023/12/31 23:11:24 [emerg] 1#1: host not found in upstream "php82" in /etc/nginx/conf.d/localhost.conf:24
+2023/12/31 23:11:24 [emerg] 1#1: host not found in upstream "php82" in /etc/nginx/conf.d/localhost.conf:24
+2023/12/31 23:11:26 [emerg] 1#1: host not found in upstream "php82" in /etc/nginx/conf.d/localhost.conf:24
+2023/12/31 23:18:56 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:18:58 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:18:58 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:18:59 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:19:01 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:19:03 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:19:06 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18
+2023/12/31 23:19:13 [emerg] 1#1: host not found in upstream "php81" in /etc/nginx/conf.d/laravel/laravel-10.14.1-swoole.conf:18

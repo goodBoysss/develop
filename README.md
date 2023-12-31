@@ -2,8 +2,18 @@
 
 ## Docker + Nginx + PHP + VPN + ELK
 
+### Step 1
+```text
+docker network create app_net
+```
 
-## Supported PHP extensions
+### Step 2
+```text
+cd ./docker-compose/dnmp && docker compose up -d
+```
+
+
+### Supported PHP extensions
 
 <!-- START OF EXTENSIONS TABLE -->
 <!-- ########################################################### -->

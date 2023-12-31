@@ -24,6 +24,7 @@ services:
     restart: always
     networks:
       - default
+      - app_net
 
   php82:
     build:
@@ -34,8 +35,6 @@ services:
         PHP_EXTENSIONS: ${PHP82_EXTENSIONS}
         TZ: ${TZ}
     container_name: php82
-    expose:
-      - 9501
     volumes:
       - ${SOURCE_DIR}:/www/:rw
       - ${PHP82_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
@@ -47,3 +46,8 @@ services:
       - SYS_PTRACE
     networks:
       - default
+      - app_net
+
+networks:
+  app_net:
+    external: true
